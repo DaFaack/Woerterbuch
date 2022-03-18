@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wörterbuch</string>
+    <string name="error_http">HTTP Error: </string>
+    <string name="title_activity_main">Wörterbuch</string>
+</resources>
