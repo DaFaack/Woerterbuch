@@ -8,7 +8,7 @@ import com.fujigames.dictionary_app.feature_dictionary.data.local.entity.WordInf
 
 @Database(
     entities = [WordInfoEntity::class],
-    version = 1,
+    version = 2,
     exportSchema = false
 )
 @TypeConverters(Converters::class)
